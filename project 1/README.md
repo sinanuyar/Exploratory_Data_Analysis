@@ -8,7 +8,6 @@ This is my repository for the Coursera's "Exploratory Data Analysis" course.
 There are 8 files related to the course project 1. 4 .R files for creating the plots 1-4 and their PNG files with same name.
 
 To run this script you need to to the following:
-- Go to project 1 folder
 - Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R)
 - Download the data from here: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 - Extract the data into ./Data subdirectory;
@@ -27,7 +26,6 @@ For each year and for each type of PM source, the NEI records how many tons of P
 Goal The overall goal is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999-2008.
 
 To run this script you need to to the following:
-- Go to project 2 folder
 - Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R, plot5.R, plot6.R)
 - Download the data from here: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
 - Extract the data into ./Data subdirectory;
